@@ -39,8 +39,8 @@ Aplikasi terdiri dari beberapa halaman utama, yaitu:
 
 ## 🚀 Splash Screen
 
-Halaman pembuka aplikasi.
 <img width="402" height="874" alt="Jaya Store" src="https://github.com/user-attachments/assets/2ac4cf9a-5fa9-43f4-95e1-1534e4ae7630" />
+Halaman pembuka aplikasi.
 
 ---
 
